@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes the Wine Quality dataset using SQL to explore factors affecting wine quality. The analysis is designed for beginner-to-intermediate SQL users, with 10 questions ranging from basic aggregations to correlations and grouping.
 
+![image alt](https://github.com/Raka-Deb/Wine-Analysis-/blob/9f03cbda17f43b472404552004a9c9caedcacadb/images.jpeg)
+
+
 ## Dataset
 - **Source**: UCI Machine Learning Repository (Wine Quality dataset)
 - **File**: `wine_quality.csv`
